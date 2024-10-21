@@ -1,4 +1,4 @@
-![Screenshot 2024-10-21 224117](https://github.com/user-attachments/assets/106fc2e6-0a9f-4c8f-8152-225551db29ab)# EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
+# EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
 
 ## Aim: 
 To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus
@@ -177,11 +177,11 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
-## CIRCUIT DIAGRAM 
+
  
 
 ## STM 32 CUBE PROGRAM :
-```
+```asm
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
